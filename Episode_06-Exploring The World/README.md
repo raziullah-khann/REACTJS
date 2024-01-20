@@ -44,4 +44,4 @@
 # Search functionality with incasesensitive
   -->.toLoverCase()
 
-  -->solve bug when we search any of product in listOfRestaurants then use separate state variable for filter
+  -->solve bug when we search any of product in listOfRestaurants then use separate state variable for filter.
